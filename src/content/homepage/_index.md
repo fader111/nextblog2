@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Neural Network automation solutions for business"
-  content: "Software as a service and more"
+  title: "Innovative Ingeneering Company That helps Business Build the State of The Art Neural Network Based Projects."
+  content: "We provide the whole circle product support"
   image: "/images/banner.png"
   button:
     enable: false
@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "We provide the State Of The Art Solutions for business"
     image: "/images/service-1.png"
     content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
     bulletpoints:
