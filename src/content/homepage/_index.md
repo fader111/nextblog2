@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Innovative Ingeneering Company That helps Business Build the State of The Art Neural Network Based Projects."
+  title: "Innovative Engeneering Company That helps Business Build the State of The Art Neural Network Based Projects."
   content: "We provide the whole circle product support"
   image: "/images/banner.png"
   button:
@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "The State Of The Art Solutions for Business in domains"
+  - title: "The State Of The Art Solutions for Business in Various Domains"
     image: "/images/service-1.png"
     content: "Our competencies cover the following industries"
     bulletpoints:
@@ -22,21 +22,22 @@ features:
       - "Expert Systems"
       - "Web ML applications"
     button:
-      enable: false
-      label: "Get Started Now"
+      enable: true
+      label: "Get more"
       link: "#"
 
-  # - title: "Discover the Key Features Of Next"
-  #   image: "/images/service-2.png"
-  #   content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-  #   bulletpoints:
-  #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-  #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-  #     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-  #   button:
-  #     enable: true
-  #     label: "Get Started Now"
-  #     link: "#"
+  - title: "The Key Features Of MLtrack"
+    image: "/images/service-2.png"
+    content: "We provide to our customers:"
+    bulletpoints:
+      - "Machine Learning Expertise"
+      - "Fast prototyping, Proof Of Concept"
+      - "Customizable Solutions: Continuous Customer Feedback Monitoring, Reinforcement Learning"
+      - "Cutting Edge Technoligies and Development Processes"
+    button:
+      enable: true
+      label: "Get more"
+      link: "#"
 
   # - title: "The Top Reasons to Choose Next for Your Next Project"
   #   image: "/images/service-3.png"
