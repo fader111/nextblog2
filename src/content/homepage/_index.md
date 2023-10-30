@@ -3,7 +3,7 @@
 banner:
   title: "Innovative Engeneering Company That helps Business Build the State of The Art Neural Network Based Projects."
   content: "We provide the whole circle product support"
-  image: "/images/banner.png"
+  image: "/images/neurocity.jfif"
   button:
     enable: false
     label: "Get Started For Free"
@@ -11,29 +11,29 @@ banner:
 
 # Features
 features:
-  - title: "The State Of The Art Solutions for Business in Various Domains"
-    image: "/images/service-1.png"
+  - title: "Machine vision"
+    image: "/images/alpr1.png"
     content: "Our competencies cover the following industries"
     bulletpoints:
-      - "Embedded Systems with AI"
-      - "Machine vision"
-      - "Large Language Models"
-      - "Industrial **IoT**"
-      - "Expert Systems"
-      - "Web ML applications"
+      - "Object detection and recognition"
+      - "Face recognition"
+      - "Optical character recognition (OCR)"
+      - "Video analytics"
+      - "Augmented reality (AR) and virtual reality (VR)"
+      - "Quality control and inspection"
     button:
       enable: true
       label: "Get more"
       link: "#"
 
-  - title: "The Key Features Of MLtrack"
-    image: "/images/service-2.png"
-    content: "We provide to our customers:"
+  - title: "Large Language Models (LLM's)"
+    image: "/images/llms.jfif"
+    content: "You can get the service fine tuned to your corporate tasks:"
     bulletpoints:
-      - "Machine Learning Expertise"
-      - "Fast prototyping, Proof Of Concept"
-      - "Customizable Solutions: Continuous Customer Feedback Monitoring, Reinforcement Learning"
-      - "Cutting Edge Technoligies and Development Processes"
+      - "Chatbot development"
+      - "Content generation"
+      - "Voice assistants"
+      - "Text summarization and extraction"
     button:
       enable: true
       label: "Get more"
