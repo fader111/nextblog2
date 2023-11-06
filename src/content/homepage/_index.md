@@ -39,16 +39,15 @@ features:
       label: "Get more"
       link: "#"
 
-  # - title: "The Top Reasons to Choose Next for Your Next Project"
-  #   image: "/images/service-3.png"
-  #   content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
-  #   bulletpoints:
-  #     - "Instantly load static sites for better user experience and SEO."
-  #     - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-  #     - "Use any front-end library or framework, or build custom components, for any project size."
-  #     - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-  #   button:
-  #     enable: false
-  #     label: ""
-  #     link: ""
+  - title: "Smart Sensors and Cameras"
+    image: "/images/man_in_yard.jfif"
+    content: "Enhance your security systems with advanced facial recognition and object detection capabilities, ensuring only authorized individuals gain access to your premises. Whether it's an office building, a retail store, or even your own home, our smart cameras and sensors will provide relentless surveillance and instant alerts, guaranteeing unrivaled peace of mind."
+    bulletpoints:
+      - "Experience the power of our embedded AI as it diligently monitors your environment, automatically detecting any suspicious activity or potential security threats."
+      - "Our smart cameras and sensors work seamlessly to increase productivity and quality control."
+      - "Transform your retail experience with our personalized marketing solutions. Track customer behavior, analyze foot traffic, and offer tailored promotions for an immersive and engaging shopping experience."
+    button:
+      enable: false
+      label: ""
+      link: ""
 ---
